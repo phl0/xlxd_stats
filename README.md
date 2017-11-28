@@ -1,8 +1,8 @@
-## Perl Interface for xlx statistics
+# Perl Interface for xlx statistics
 
 This is a collection of simple perl code that queries a xlxd server via the JSON interface to collect some statistical data. Currently it collects the number of collected nodes and peers. The two values are written to a .rrd file.
 
-# Usage
+## Usage
 
 The xlxd_stats.pl script collects data and saves values to the rrd archive. This can be run from a cron job for example every minute.
 
