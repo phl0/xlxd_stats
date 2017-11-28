@@ -28,3 +28,5 @@ RRA:MAX:0.5:60:168 \
 RRA:MAX:0.5:180:240 \
 RRA:MAX:0.5:1440:365
 ```
+
+A sample can be seen on [XLX518's dashboard](http://xlx518.n18.de/index.php?show=statistics)
